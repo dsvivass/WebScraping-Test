@@ -1,1 +1,1 @@
-Respositorio para pruebas de web scraping
+Repositorio para pruebas de web scraping
